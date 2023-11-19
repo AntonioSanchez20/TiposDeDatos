@@ -1,0 +1,17 @@
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\bin\Debug\net6.0-windows\TiposDeDatos.exe
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\bin\Debug\net6.0-windows\TiposDeDatos.deps.json
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\bin\Debug\net6.0-windows\TiposDeDatos.runtimeconfig.json
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\bin\Debug\net6.0-windows\TiposDeDatos.dll
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\bin\Debug\net6.0-windows\TiposDeDatos.pdb
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.vbproj.AssemblyReference.cache
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.Form1.resources
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.vbproj.GenerateResource.cache
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.AssemblyInfo.vb
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.vbproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.dll
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\refint\TiposDeDatos.dll
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.pdb
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\TiposDeDatos.genruntimeconfig.cache
+C:\Users\marco\Downloads\TiposDeDatos\TiposDeDatos\obj\Debug\net6.0-windows\ref\TiposDeDatos.dll
